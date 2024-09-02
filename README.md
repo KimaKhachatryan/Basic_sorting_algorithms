@@ -78,7 +78,7 @@ Heap Sort builds a binary heap from the list and then repeatedly extracts the ma
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sorting-algorithms-cpp.git
+   git clone https://github.com/KimaKhachatryan/Basic_sorting_algorithms.git
 2. **Compile the code: Use a C++ compiler to compile the source code files. For example, you can use g++:**
    ```bash
    g++ -o sort_algorithms main.cpp bubble_sort.cpp selection_sort.cpp insertion_sort.cpp merge_sort.cpp quick_sort.cpp
