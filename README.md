@@ -80,3 +80,9 @@ Heap Sort builds a binary heap from the list and then repeatedly extracts the ma
    ```bash
    git clone https://github.com/yourusername/sorting-algorithms-cpp.git
    cd sorting-algorithms-cpp
+2. **Compile the code: Use a C++ compiler to compile the source code files. For example, you can use g++:**
+   ```bash
+   g++ -o sort_algorithms main.cpp bubble_sort.cpp selection_sort.cpp insertion_sort.cpp merge_sort.cpp quick_sort.cpp heap_sort.cpp
+3. **Run the program:**
+   ```bash
+   ./sort_algorithms
