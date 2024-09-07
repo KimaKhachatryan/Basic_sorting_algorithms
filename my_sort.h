@@ -7,3 +7,4 @@ void counting_sort(std::vector<int>& vec);
 void radix_sort(std::vector<int>& vec);
 void quick_sort(std::vector<int>& vec);
 void merge_sort(std::vector<int>& vec);
+void heap_sort(std::vector<int>& vec);
