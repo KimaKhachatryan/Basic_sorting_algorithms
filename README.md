@@ -13,9 +13,6 @@ This repository contains implementations of various basic sorting algorithms in 
   - [Quick Sort](#quick-sort)
   - [Heap Sort](#heap-sort)
 - [How to Use](#how-to-use)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
